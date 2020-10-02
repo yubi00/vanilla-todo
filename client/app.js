@@ -1,3 +1,4 @@
+console.log('app loaded')
 const usertodos = document.querySelector('.todos')
 const userinput = document.querySelector('#userinput')
 const btn = document.querySelector('#btn')
